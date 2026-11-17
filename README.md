@@ -22,9 +22,7 @@ My work focuses on connecting engineering design, numerical simulation, and expe
 
 A collection of mechanical design and engineering simulation projects, documenting CAD development, numerical analysis, and technical applications.
 
-### 1. Mechanical Design | SOLIDWORKS
-
-[View Repository](https://github.com/19Kevinho/Mechanical-Design-SOLIDWORKS)
+### 1. [Mechanical Design | SOLIDWORKS](https://github.com/19Kevinho/Mechanical-Design-SOLIDWORKS)
 
 A collection of 3D CAD models, mechanical assemblies, parametric designs, motion studies, and engineering visualizations developed in SOLIDWORKS.
 

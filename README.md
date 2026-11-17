@@ -20,9 +20,17 @@ My work focuses on connecting engineering design, numerical simulation, and expe
 
 ## Engineering Portfolio
 
-This portfolio documents selected engineering projects involving mechanical design, numerical simulation, and optimization.
+A collection of mechanical design and engineering simulation projects, documenting CAD development, numerical analysis, and technical applications.
 
-*Projects and technical case studies will be added progressively.*
+### 1. Mechanical Design | SOLIDWORKS
+
+[View Repository](https://github.com/19Kevinho/Mechanical-Design-SOLIDWORKS)
+
+A collection of 3D CAD models, mechanical assemblies, parametric designs, motion studies, and engineering visualizations developed in SOLIDWORKS.
+
+**Featured Projects:**
+
+1. [Jet Engine Assembly | SOLIDWORKS](https://github.com/19Kevinho/01-Jet-Engine-Assembly) — 3D CAD modeling, mechanical assembly, motion study, and realistic rendering.
 
 ## Connect with Me
 

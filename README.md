@@ -29,17 +29,17 @@ A collection of 3D CAD models, mechanical assemblies, parametric designs, motion
 1. [Jet Engine Assembly | SOLIDWORKS](https://github.com/19Kevinho/01-Jet-Engine-Assembly) — 3D CAD modeling, mechanical assembly, motion study, and realistic rendering.
 
 
----
-
 ## Professional Certifications
 
 **SOLIDWORKS | Dassault Systèmes**
-- Certified SOLIDWORKS Professional (CSWP)
-- Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)
-- Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)
-- Certified SOLIDWORKS Associate (CSWA)
+
+- [Certified SOLIDWORKS Professional (CSWP)](SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png)
+- [Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)](PROFESSIONAL%20-%20FLOW%20SIMULATION.png)
+- [Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)](PROFESSIONAL%20-%20SHEET%20METAL.png)
+- [Certified SOLIDWORKS Associate (CSWA)](SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png)
 
 **Massachusetts Institute of Technology | MIT xPRO**
+
 - Additive Manufacturing for Innovative Design and Production (2023)
 
 ## Connect with Me

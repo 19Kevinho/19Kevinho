@@ -53,7 +53,7 @@ A collection of 3D CAD models, mechanical assemblies, parametric designs, motion
 ### Massachusetts Institute of Technology | MIT xPRO
 
 **Additive Manufacturing for Innovative Design and Production (2023)**
-<img src="NOMBRE-DEL-ARCHIVO" width="500" alt="MIT xPRO Additive Manufacturing Certificate">
+<img src="NOMBRE-EXACTO-DEL-ARCHIVO.png" width="500" alt="MIT xPRO Additive Manufacturing Certificate">
 
 ## Connect with Me
 

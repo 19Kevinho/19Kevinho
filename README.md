@@ -32,23 +32,32 @@ A collection of 3D CAD models, mechanical assemblies, parametric designs, motion
 
 ## Professional Certifications
 
+
 ### SOLIDWORKS | Dassault Systèmes
 
-**1. Certified SOLIDWORKS Professional (CSWP)**
+<table>
+  <tr>
+    <td align="center">
+      <strong>CSWP-Flow</strong><br>
+      <img src="PROFESSIONAL%20-%20FLOW%20SIMULATION.png" width="250">
+    </td>
+    <td align="center">
+      <strong>CSWP</strong><br>
+      <img src="SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>CSWP-SM</strong><br>
+      <img src="PROFESSIONAL%20-%20SHEET%20METAL.png" width="250">
+    </td>
+    <td align="center">
+      <strong>CSWA</strong><br>
+      <img src="SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png" width="250">
+    </td>
+  </tr>
+</table>
 
-<img src="SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png" width="200" alt="SOLIDWORKS CSWP Certificate">
-
-**2. Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)**
-
-<img src="PROFESSIONAL%20-%20FLOW%20SIMULATION.png" width="200" alt="SOLIDWORKS Flow Simulation Certificate">
-
-**3. Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)**
-
-<img src="PROFESSIONAL%20-%20SHEET%20METAL.png" width="200" alt="SOLIDWORKS Sheet Metal Certificate">
-
-**4. Certified SOLIDWORKS Associate (CSWA)**
-
-<img src="SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png" width="200" alt="SOLIDWORKS CSWA Certificate">
 
 ### Massachusetts Institute of Technology | MIT xPRO
 

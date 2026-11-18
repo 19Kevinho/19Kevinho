@@ -36,25 +36,25 @@ A collection of 3D CAD models, mechanical assemblies, parametric designs, motion
 
 **1. Certified SOLIDWORKS Professional (CSWP)**
 
-<img src="SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png" width="500" alt="SOLIDWORKS CSWP Certificate">
+<img src="SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png" width="200" alt="SOLIDWORKS CSWP Certificate">
 
 **2. Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)**
 
-<img src="PROFESSIONAL%20-%20FLOW%20SIMULATION.png" width="500" alt="SOLIDWORKS Flow Simulation Certificate">
+<img src="PROFESSIONAL%20-%20FLOW%20SIMULATION.png" width="200" alt="SOLIDWORKS Flow Simulation Certificate">
 
 **3. Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)**
 
-<img src="PROFESSIONAL%20-%20SHEET%20METAL.png" width="500" alt="SOLIDWORKS Sheet Metal Certificate">
+<img src="PROFESSIONAL%20-%20SHEET%20METAL.png" width="200" alt="SOLIDWORKS Sheet Metal Certificate">
 
 **4. Certified SOLIDWORKS Associate (CSWA)**
 
-<img src="SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png" width="500" alt="SOLIDWORKS CSWA Certificate">
+<img src="SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png" width="200" alt="SOLIDWORKS CSWA Certificate">
 
 ### Massachusetts Institute of Technology | MIT xPRO
 
 **Additive Manufacturing for Innovative Design and Production (2023)**
 
-<img src="Additive%20Manufacturing%20for%20Innovative%20Design%20and%20Production.png" width="500" alt="MIT xPRO Additive Manufacturing Certificate">
+<img src="Additive%20Manufacturing%20for%20Innovative%20Design%20and%20Production.png" width="300" alt="MIT xPRO Additive Manufacturing Certificate">
 
 ## Connect with Me
 

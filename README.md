@@ -29,18 +29,31 @@ A collection of 3D CAD models, mechanical assemblies, parametric designs, motion
 1. [Jet Engine Assembly | SOLIDWORKS](https://github.com/19Kevinho/01-Jet-Engine-Assembly) — 3D CAD modeling, mechanical assembly, motion study, and realistic rendering.
 
 
+
 ## Professional Certifications
 
-**SOLIDWORKS | Dassault Systèmes**
+### SOLIDWORKS | Dassault Systèmes
 
-- [Certified SOLIDWORKS Professional (CSWP)](SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png)
-- [Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)](PROFESSIONAL%20-%20FLOW%20SIMULATION.png)
-- [Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)](PROFESSIONAL%20-%20SHEET%20METAL.png)
-- [Certified SOLIDWORKS Associate (CSWA)](SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png)
+**1. Certified SOLIDWORKS Professional (CSWP)**
 
-**Massachusetts Institute of Technology | MIT xPRO**
+<img src="SOLIDWORKS%20DESIGN%20-%20PROFESSIONAL.png" width="500" alt="SOLIDWORKS CSWP Certificate">
 
-- Additive Manufacturing for Innovative Design and Production (2023)
+**2. Certified SOLIDWORKS Professional — Flow Simulation (CSWP-Flow)**
+
+<img src="PROFESSIONAL%20-%20FLOW%20SIMULATION.png" width="500" alt="SOLIDWORKS Flow Simulation Certificate">
+
+**3. Certified SOLIDWORKS Professional — Sheet Metal (CSWP-SM)**
+
+<img src="PROFESSIONAL%20-%20SHEET%20METAL.png" width="500" alt="SOLIDWORKS Sheet Metal Certificate">
+
+**4. Certified SOLIDWORKS Associate (CSWA)**
+
+<img src="SOLIDWORKS%20DESIGN%20-%20ASSOCIATE.png" width="500" alt="SOLIDWORKS CSWA Certificate">
+
+### Massachusetts Institute of Technology | MIT xPRO
+
+**Additive Manufacturing for Innovative Design and Production (2023)**
+<img src="NOMBRE-DEL-ARCHIVO" width="500" alt="MIT xPRO Additive Manufacturing Certificate">
 
 ## Connect with Me
 

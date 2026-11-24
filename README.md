@@ -27,7 +27,7 @@ A collection of mechanical design and engineering simulation projects, documenti
 A collection of 3D CAD models, mechanical assemblies, parametric designs, motion studies, and engineering visualizations developed in SOLIDWORKS.
 
 1. [Jet Engine Assembly | SOLIDWORKS](https://github.com/19Kevinho/01-Jet-Engine-Assembly) — 3D CAD modeling, mechanical assembly, motion study, and realistic rendering.
-
+2. [Industrial Particle Extraction Ductwork | SOLIDWORKS Sheet Metal](https://github.com/19Kevinho/Industrial-Particle-Extraction-Ductwork-SolidWorks-Sheet-Metal) — Industrial ductwork design, rolled sheet metal components, flat pattern development, plant integration, and fabrication.
 
 
 ## Professional Certifications
